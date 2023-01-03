@@ -1,3 +1,17 @@
+# このリポジトリについて
+
+このリポジトリの目的はlaravel Sail(Docker)を使って、アプリ開発を体験することにあります。とても個人的な都合によって作ったものなので、現在すでにlaravelを実務で活用されている方には全く参考にならないと思います。
+
+基本＋管理画面を作れるようになりたいという希望がきっかけでした。  
+幸い、お手本となる[記事](https://onetech.jp/blog/how-to-create-a-good-admin-screen-in-laravel9-15789)と出会い、ほとんど丸コピーで簡単に、苦労することなく管理画面を作ることができました。  
+サイトおよび記事執筆者様に深く感謝申し上げます。  
+
+初学者である私はコピペはできても、コードの意味がよく理解できていません。これからは、理解を深め楽しくアプリ開発が出来るように精進します。  
+できるだけ忠実に、ぶつかった壁や、壁をどう乗り越えたかとう体験談を掲載する予定です。  
+また、何時でも前に戻れるように進捗のステップごとにブランチを切って一歩一歩積み重ねます。
+
+このリポジトリが初学者の参考になれば幸いです。
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
